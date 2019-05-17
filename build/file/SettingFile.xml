@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!-- This setting file is to set experiment parameters --> 
+<!-- =====Set video source===== -->
+<video_path>file\\video\\</video_path>
+<!-- read file path -->
+<calibrationSettingFile_path>file\\calibrationSettingFile.xml</calibrationSettingFile_path>
+<pixel_path>file\\pixel.xml</pixel_path>
+<ROI_HEIGHT>30000</ROI_HEIGHT>
+<ROI_WIDTH>3750</ROI_WIDTH>
+</opencv_storage>
