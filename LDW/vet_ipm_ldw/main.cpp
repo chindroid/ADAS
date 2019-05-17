@@ -1,13 +1,3 @@
-/*
-* main.cpp
-*
-* @author [作者]
-* @version [版本号, YYYY-MM-DD]
-* @see [相关类/方法]
-* @since [产品/模块版本]
-* @deprecated
-*/
-
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <fstream>
